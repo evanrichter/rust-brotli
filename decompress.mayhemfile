@@ -1,0 +1,5 @@
+project: rust-brotli
+target: decompress
+
+cmds:
+  - cmd: /decompress

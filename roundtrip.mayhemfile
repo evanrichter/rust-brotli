@@ -1,0 +1,5 @@
+project: rust-brotli
+target: roundtrip
+
+cmds:
+  - cmd: /roundtrip
